@@ -1,0 +1,10 @@
+<h2><a href="interest.html">관심사</a></h2>
+<ul>
+  <li><a href="interest_life.html">삶</a></li>
+  <li><a href="interest_developer.html">개발자</a></li>
+  <li><a href="interest_immigration.html">이민</a></li>
+  <li><a href="interest_economy.html">경제</a></li>
+  <li><a href="interest_dance.html">댄스</a></li>
+  <li><a href="interest_fashion.html">패션</a></li>
+</ul>
+<img src="interest_main.jpg" class="center">
